@@ -1,0 +1,44 @@
+@media (min-width: 576px) { 
+    .firsth1{
+        font-size: 3.5rem;
+    }
+    .firsth3{
+        font-size: 1.6rem;
+    }
+
+  
+    
+ }
+
+
+@media (min-width: 768px) { 
+    .firsth1{
+        font-size: 4rem;
+    }
+    .firsth3{
+        font-size: 1.9rem;
+    }
+ }
+
+
+@media (min-width: 992px) { 
+    .firsth1{
+        font-size: 4.2rem;
+    }
+    .firsth3{
+        font-size: 2.3rem;
+    }
+ }
+
+
+@media (min-width: 1200px) {  
+    .firsth1{
+        font-size: 4rem;
+    }
+    .firsth3{
+        font-size: 2.8rem;
+    }
+}
+
+
+@media (min-width: 1400px) {  }
